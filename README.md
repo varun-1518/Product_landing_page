@@ -1,18 +1,13 @@
-**
-WatchMajesty
-**
-A brief and catchy description of your project goes here. Highlight its main features and what makes it unique.
+
+## WatchMajesty
+
 
 ## Table of Contents
 
 - [Description](#description)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Description
 
@@ -66,20 +61,3 @@ The project files are organized as follows:
 │       └── red.png
 └── ...
 ```
-
-## Contributing
-
-If you'd like to contribute, please follow the [Contributor Covenant](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Acknowledgements
-
-- [Google Fonts](https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap)
-- [Animate.css](https://animate.style/)
-
----
-
-Feel free to replace the placeholders with actual information about your project. If you have specific licenses for images, fonts, or other resources, make sure to include them in the acknowledgments or the license section.
