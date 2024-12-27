@@ -36,10 +36,10 @@ Follow these steps to clone and run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/varun-1518/Product_Landing_Page.git
 
 # Navigate to the project folder
-cd your-repo
+cd Product_landing_page
 
 # Open the index.html file in your preferred browser
 ```
