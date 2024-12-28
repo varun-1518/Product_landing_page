@@ -1,5 +1,5 @@
 
-## WatchMajesty - Product Landing Page 
+# WatchMajesty - Product Landing Page 
 
 
 Introducing a stylish and responsive website template featuring a dynamic color-changing product section and a sleek sticky navbar. Enhance your online presence with this eye-catching design that blends aesthetics with functionality. Explore the simplicity and charm of our template for a unique web experience.
@@ -36,7 +36,7 @@ Follow these steps to clone and run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/varun-1518/Product_Landing_Page.git
+git clone https://github.com/varun-1518/Product_landing_page.git
 
 # Navigate to the project folder
 cd Product_landing_page
